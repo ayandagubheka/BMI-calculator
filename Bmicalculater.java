@@ -1,3 +1,6 @@
+/**
+*@author Ayanda
+**/
 //package bmicalculate;
 import java.util.Locale;	
 import java.util.Scanner;
